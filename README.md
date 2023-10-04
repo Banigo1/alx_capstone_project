@@ -82,7 +82,8 @@ Implement features such as event creation, reminders, and calendar integration.
 10. Fitness Tracker:
 Build a fitness tracking application that allows users to track their workouts, set goals, and monitor their progress.
 Implement features such as logging exercises, tracking metrics, and generating performance reports.
-Project Guidelines:
+
+## Project Guidelines:
 Choose one project from the options provided.
 Plan your project by defining the features, functionality, and design aspects.
 Implement the project using the programming languages and tools you have learned throughout the course.
