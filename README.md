@@ -84,10 +84,10 @@ Build a fitness tracking application that allows users to track their workouts, 
 Implement features such as logging exercises, tracking metrics, and generating performance reports.
 
 ## Project Guidelines:
-Choose one project from the options provided.
-Plan your project by defining the features, functionality, and design aspects.
-Implement the project using the programming languages and tools you have learned throughout the course.
-Ensure your project follows best practices in terms of code organization, readability, and documentation.
-Test your project thoroughly to identify and fix any bugs or issues.
-Create a professional and visually appealing user interface for a great user experience.
-Showcase your project’s functionality and features effectively in your portfolio.
+  -  Choose one project from the options provided.
+  -  Plan your project by defining the features, functionality, and design aspects.
+  -  Implement the project using the programming languages and tools you have learned throughout the course.
+  -  Ensure your project follows best practices in terms of code organization, readability, and documentation.
+  -  Test your project thoroughly to identify and fix any bugs or issues.
+  -  Create a professional and visually appealing user interface for a great user experience.
+  -  Showcase your project’s functionality and features effectively in your portfolio.
